@@ -15,7 +15,7 @@ const router = createBrowserRouter([
             path:"",
             element:<div>
               <h1>bienvenue dans mon blog </h1>
-              <p>click sur la partie blog en haut de la navBarre pour voir les article </p>
+              <p>les mielleurs click sur la partie blog en haut de la navBarre pour voir les article </p>
               </div>
         },
         {
